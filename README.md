@@ -1,7 +1,7 @@
 
 # Excel Salary Dashboard
 
-![Salary Dashboard GIF](https://github.com/swatipand/analyze-the-salary-of-data-scientist-in-different-by-using-excel-regions-/blob/main/1_Salary_Dashboard_Final_Dashboard%20(1).gif)
+[Salary Dashboard GIF](https://github.com/swatipand/analyze-the-salary-of-data-scientist-in-different-by-using-excel-regions-/blob/main/1_Salary_Dashboard_Final_Dashboard%20(1).gif)
 
 ## Introduction
 
